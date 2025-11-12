@@ -33,6 +33,7 @@ TRAINING_SITES = [
     "https://www.dw.com", "https://www.haaretz.com",
     "https://www.scmp.com", "https://www.lemonde.fr",
     "https://www.latimes.com", "https://www.timesofindia.com"
+
 ]
 
 TESTING_SITES = [
