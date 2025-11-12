@@ -32,7 +32,8 @@ TRAINING_SITES = [
     "https://www.japantimes.co.jp", "https://www.france24.com",
     "https://www.dw.com", "https://www.haaretz.com",
     "https://www.scmp.com", "https://www.lemonde.fr",
-    "https://www.latimes.com", "https://www.timesofindia.com"
+    "https://www.latimes.com", "https://www.timesofindia.com"git commit -m "Add project folders (.idea, static, templates)"
+
 
 ]
 
